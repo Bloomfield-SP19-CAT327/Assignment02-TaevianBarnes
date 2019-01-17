@@ -8,7 +8,9 @@ is a
 test of blockquotes
 ```
 **Bold Text**
+
 *Italic Text*
+
 **Bold and _Italic_ Text**
 - Unordered
 - List
